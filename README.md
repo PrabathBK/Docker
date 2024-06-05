@@ -1,2 +1,2 @@
 # Docker
- This reco contains exmples od docker
+ This repo contains exmples of docker
